@@ -1,23 +1,6 @@
-# The Minimalist Entrepreneur — Claude Code Skills
+# Mini CPU
 
-Claude Code skills based on [The Minimalist Entrepreneur](https://www.minimalistentrepreneur.com/) by Sahil Lavingia.
+## Liste des opérations
 
-## Installation
-
-In Claude Code:
-
-```
-/plugin marketplace add slavingia/skills
-/plugin install minimalist-entrepreneur
-```
-
-That's it — Claude Code will fetch the repo and register all 10 skills automatically.
-
-<details>
-<summary>Alternative: install from a local clone</summary>
-
-```bash
-git clone https://github.com/slavingia/skills.git ~/.claude/plugins/skills
-```
-
-Then in Claude Code:
+- **ALU** : ADD, OR, XNOR, NAND, NOR, XOR, AND, SUB  
+- **CODE** : LOAD, HALT, JUMP, JUMPIF  
