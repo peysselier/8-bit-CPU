@@ -10,15 +10,15 @@ Ce projet a pour objectif d'explorer les fondements de l'informatique en reconst
 
 ## Logiciel utilisé
 
-L'intégralité du projet est conçue avec Logisim-evolution. C'est un outil puissant et pédagogique qui permet de simuler des circuits numériques complexes et de créer des sous-circuits personnalisés pour une conception hiérarchique.
+L'intégralité du projet est conçue avec Logisim-Evolution. C'est un outil puissant et pédagogique qui permet de simuler des circuits numériques complexes et de créer des sous-circuits personnalisés pour une conception hiérarchique.
 
-**telechargement** :
+**téléchargement** :
 
 - https://github.com/logisim-evolution/logisim-evolution
 
 ## Modele utiliser
 
-Ce projet s'appuie sur des tutoriels issus de Minecraft. Cette approche permet de visualiser concrètement la structure détaillée des composants avant de les reconstruire dans Logisim Evolution
+Ce projet s'appuie sur des tutoriels issus de Minecraft. Cette approche permet de visualiser concrètement la structure détaillée des composants avant de les reconstruire dans Logisim-Evolution
 
 ## Les differentes architectures
 
